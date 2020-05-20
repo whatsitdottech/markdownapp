@@ -9,4 +9,6 @@ I have a problem with the screen being totally black or white.  Not able to see 
 
 Something happened when working through lesson "update config" or "configure styling with rebass"
 
-I have been back through the lessons and cannot find my error.
+I have been back through the lessons and cannot find my error. 
+
+I did find a way to make something show up.  I made some formatting changes in index.js
